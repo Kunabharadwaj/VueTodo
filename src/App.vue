@@ -1,28 +1,26 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1 class="flex justify-center items-center text-3xl font-bold mb-4">My To-Do App</h1>
+    <ItemList />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ItemList from './components/ItemList.vue';
+import './assets/tailwind.css'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
-}
+    ItemList,
+  },
+};
 </script>
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
 }
 </style>
