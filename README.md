@@ -4,10 +4,12 @@ This project is a web application for managing todos. It allows users to add, up
 
 ## Features ✨
 
-- Add new tasks: Users can add new tasks by entering a title and optional due date.
+- Add new tasks: Users can add tasks by entering a title and optional due date.
 - Update tasks: Users can update the title and due date of existing tasks.
+- Duplicate tasks: Users can duplicate the tasks.
+- Set Due Date: Users can set due dates for each task.
 - Delete tasks: Users can delete tasks from the list.
-- Mark tasks as completed: Users can mark tasks as completed, which will visually indicate their status.
+- Mark tasks as completed: Users can mark tasks as completed, visually indicating their status.
 
 ## Technologies and Tools Used 🛠️
 
