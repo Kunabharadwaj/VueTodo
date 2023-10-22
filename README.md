@@ -21,7 +21,7 @@ This project is a web application for managing todos. It allows users to add, up
 
 To install and run the project locally, follow these steps:
 
-1. Clone the repository: `git clone [https://github.com/Kunabharadwaj/VueTodo/tree/main]`
+1. Clone the repository: `git clone [https://github.com/Kunabharadwaj/VueTodo]`
 2. Navigate to the project directory: `cd project-directory`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
