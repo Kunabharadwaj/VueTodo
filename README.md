@@ -13,8 +13,8 @@ This project is a web application for managing todos. It allows users to add, up
 
 You can access a live demo of the project at [insert demo link]. Here are some screenshots of the project:
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshots/todo.png)
+![Screenshot 2](screenshots/todomobile.PNG)
 
 ## Installation
 
