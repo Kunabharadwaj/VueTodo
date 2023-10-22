@@ -50,9 +50,18 @@ Once the project is running, you can start managing your todos. Here's how to us
 
 This project does not require an external API.
 
-```
-npm run lint
-```
+## Contributing 🤝
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Contributions are welcome! If you would like to contribute to the project, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Make your changes and commit them: `git commit -m 'Add your feature'`
+4. Push to the branch: `git push origin feature/your-feature`
+5. Submit a pull request
+
+Please read our [Contribution Guidelines](CONTRIBUTING.md) for more information.
+
+## License 📄
+
+This project is licensed under the [MIT License](LICENSE).
