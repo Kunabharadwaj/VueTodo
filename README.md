@@ -9,7 +9,15 @@ This project is a web application for managing todos. It allows users to add, up
 - Delete tasks: Users can delete tasks from the list.
 - Mark tasks as completed: Users can mark tasks as completed, which will visually indicate their status.
 
-## Demo 🚀
+## Technologies and Tools Used 🛠️
+
+This project was built using the following technologies and tools:
+
+- Vue.js 2: A JavaScript framework for building user interfaces.
+- Vuex: A state management pattern and library for Vue.js applications.
+- Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+- Vue Test Utils: A library for testing Vue.js components.
+- Jest: A JavaScript testing framework.
 
 ## Desktop Preview
 ![login](https://github.com/Kunabharadwaj/VueTodo/blob/main/screenshots/todo.png?raw=true)
