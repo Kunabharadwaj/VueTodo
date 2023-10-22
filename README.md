@@ -1,24 +1,23 @@
-# Vue JS Todo App with Vuex
+# Vue JS Todo App with Vuex 📝
 
 This project is a web application for managing todos. It allows users to add, update, and delete tasks, as well as mark tasks as completed. The goal of this project is to provide a simple and intuitive interface for managing daily tasks and staying organized.
 
-## Features
+## Features ✨
 
 - Add new tasks: Users can add new tasks by entering a title and optional due date.
 - Update tasks: Users can update the title and due date of existing tasks.
 - Delete tasks: Users can delete tasks from the list.
 - Mark tasks as completed: Users can mark tasks as completed, which will visually indicate their status.
 
-## Demo
+## Demo 🚀
 
-You can access a live demo of the project at [insert demo link]. Here are some screenshots of the project:
 ## Desktop Preview
 ![login](https://github.com/Kunabharadwaj/VueTodo/blob/main/screenshots/todo.png?raw=true)
 
 ## Mobile Preview
 ![login](https://github.com/Kunabharadwaj/VueTodo/blob/main/screenshots/todomobile.PNG?raw=true)
 
-## Installation
+## Installation ⚙️
 
 To install and run the project locally, follow these steps:
 
@@ -28,7 +27,7 @@ To install and run the project locally, follow these steps:
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000`
 
-## Usage
+## Usage 📖
 
 Once the project is running, you can start managing your todos. Here's how to use the project:
 
@@ -46,23 +45,11 @@ Once the project is running, you can start managing your todos. Here's how to us
 
 4. Mark a task as completed:
    - Click the checkbox next to a task to mark it as completed. The task will be visually indicated as completed.
+  
+## API Documentation 📚
 
-## Project setup
-```
-npm install
-```
+This project does not require an external API.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
 ```
 npm run lint
 ```
