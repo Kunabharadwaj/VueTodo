@@ -22,7 +22,7 @@ You can access a live demo of the project at [insert demo link]. Here are some s
 
 To install and run the project locally, follow these steps:
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone [https://github.com/Kunabharadwaj/VueTodo/tree/main]`
 2. Navigate to the project directory: `cd project-directory`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
