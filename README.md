@@ -12,9 +12,11 @@ This project is a web application for managing todos. It allows users to add, up
 ## Demo
 
 You can access a live demo of the project at [insert demo link]. Here are some screenshots of the project:
+## Desktop Preview
+![login](https://github.com/Kunabharadwaj/VueTodo/blob/main/screenshots/todo.png?raw=true)
 
-![Screenshot 1](screenshots/todo.png)
-![Screenshot 2](screenshots/todomobile.PNG)
+## Mobile Preview
+![login](https://github.com/Kunabharadwaj/VueTodo/blob/main/screenshots/todomobile.PNG?raw=true)
 
 ## Installation
 
