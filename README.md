@@ -8,7 +8,7 @@ This project is a web application for managing todos. It allows users to add, up
 - Update tasks: Users can update the title and due date of existing tasks.
 - Duplicate tasks: Users can duplicate the tasks.
 - Set Due Date: Users can set due dates for each task.
-- Delete tasks: Users can delete tasks from the list.
+- Delete tasks: Users can delete tasks from the list a modal appears upon clicking Delete.
 - Mark tasks as completed: Users can mark tasks as completed, visually indicating their status.
 
 ## Technologies and Tools Used 🛠️
@@ -18,6 +18,7 @@ This project was built using the following technologies and tools:
 - Vue.js 2: A JavaScript framework for building user interfaces.
 - Vuex: A state management pattern and library for Vue.js applications.
 - Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+- Done form validate on client side
 - Vue Test Utils: A library for testing Vue.js components.
 - Jest: A JavaScript testing framework.
 
