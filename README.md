@@ -35,7 +35,7 @@ To install and run the project locally, follow these steps:
 1. Clone the repository: `git clone [https://github.com/Kunabharadwaj/VueTodo]`
 2. Navigate to the project directory: `cd project-directory`
 3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
+4. Start the development server: `npm run serve`
 5. Open your browser and visit `http://localhost:3000`
 
 ## Usage 📖
